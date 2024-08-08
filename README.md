@@ -8,7 +8,6 @@
 - [ ] Access controls and server-side encryption.
 - [ ] Website hosting and Amazon S3 policies.
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ### What is the minimum time Interval for the data that Amazon CloudWatch receives and aggregates?
 
@@ -18,7 +17,6 @@
 - [ ] Three minutes.
 - [ ] Five minutes.
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ### A user has launched an EC2 instance. The instance got terminated as soon as it was launched. Which of the below mentioned options is not a possible reason for this?
 
@@ -27,7 +25,6 @@
 - [ ] The snapshot is corrupt.
 - [x] The user account has reached the maximum EC2 instance limit.
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ### Your website is serving on-demand training videos to your workforce. Videos are uploaded monthly in high resolution MP4 format. Your workforce is distributed globally often on the move and using company-provided tablets that require the HTTP Live Streaming (HLS) protocol to watch a video. Your company has no video transcoding expertise and it required you may need to pay for a consultant. How do you implement the most cost-efficient architecture without compromising high availability and quality of video delivery'?
 
